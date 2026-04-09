@@ -40,13 +40,13 @@
 > Conversational product recommendation system powered by OpenAI API
 - Built with **React**, **Python**, and **OpenAI API**
 - Users type what they're looking for in natural language and get smart personalised recommendations
-- 🔗 [View Repository](#)
+  
 
 #### 💸 Smart Expense Splitter
 > Full-stack app for tracking shared expenses and auto-calculating settlements
 - Built with **React**, **Node.js**, and **MongoDB**
 - Includes UPI deep-link integration for the Indian market
-- 🔗 [View Repository](#)
+
 
 ---
 

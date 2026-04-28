@@ -56,6 +56,13 @@
 - Beautiful purple gradient UI
 - 🔗 [View Repository](https://github.com/aishwarya-hadagali/todo-app)
 
+- ### 🛒 My Shop — Mini E-commerce Website
+> A mini e-commerce website built from scratch using HTML, Tailwind CSS and JavaScript.
+- Add to cart feature
+- Live cart count in navbar
+- 🔗 [View Project](https://github.com/aishwarya-hadagali/my-shop)
+- 🌐 [Live Demo](https://aishwarya-my-shop.netlify.app)
+
 ---
 
 ### 📜 Certifications

@@ -21,7 +21,7 @@ All notebooks live in one repo: [**data-science-portfolio**](https://github.com/
  
 | Project | Problem | Tech |
 |---|---|---|
-| 💳 [**Paisabazaar Credit Score EDA**](https://github.com/aishwarya-hadagali/paisabazaar-credit-score-eda) | AlmaBetter capstone — drivers behind customer credit score bands | Python · Pandas · Seaborn |
+| 💳 [**Paisabazaar Credit Score EDA 1**](https://github.com/aishwarya-hadagali/paisabazaar-credit-score-eda) | AlmaBetter capstone — drivers behind customer credit score bands | Python · Pandas · Seaborn |
 | 🩺 [**Diabetes Dataset EDA**](https://github.com/aishwarya-hadagali/data-science-portfolio/blob/master/Diabetes_Dataset.ipynb) | Health indicator analysis & risk factor patterns | Python · Pandas · Seaborn |
 | 🍽️ [**Zomato Bangalore EDA**](https://github.com/aishwarya-hadagali/data-science-portfolio/blob/master/ZomatoDataset.ipynb) | Restaurant trends, ratings & pricing patterns across Bangalore | Python · Pandas · Matplotlib · Seaborn |
 | 💳 [**Paisabazaar Credit Score EDA**](https://github.com/aishwarya-hadagali/data-science-portfolio/blob/master/paisabazarDataset.ipynb) | AlmaBetter capstone — drivers behind customer credit score bands | Python · Pandas · Seaborn |

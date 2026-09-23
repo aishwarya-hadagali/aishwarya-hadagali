@@ -41,8 +41,18 @@ All notebooks live in one repo: [**data-science-portfolio**](https://github.com/
 | Project | What it does | Stack |
 |---|---|---|
 | 📈 **Bengaluru DS/DA Hiring Trends** | Pulls live job postings via the Adzuna API to analyze Data Analyst / Data Scientist hiring trends in Bengaluru | Python · Adzuna API · SQLite |
-| 📊 **Power BI Dashboards** | Applying BI/reporting skills in parallel with the hiring-trends project | Power BI |
- 
+
+---
+
+
+ ## 📊 Power BI Dashboards
+
+| Project | What it shows | File |
+|---|---|---|
+| 💳 **Paisabazaar Credit Score Dashboard** | Interactive dashboard built on the capstone dataset — DAX measures, conditional formatting matrix, Top N filter, bookmark/reset button | [paisabazar_dashboard_123.pbix](https://github.com/aishwarya-hadagali/paisabazaar-credit-score-eda/blob/main/paisabazar_dashboard_123.pbix) |
+| 🚢 **Titanic Survival Dashboard** | Interactive breakdown of survival patterns by class, age & gender | [Titanic_Survival_Dashboard.pbix](https://github.com/aishwarya-hadagali/data-science-portfolio/blob/master/Titanic_Survival_Dashboard.pbix) |
+
+> Note: `.pbix` files need Power BI Desktop to open — download to view interactively.
 ---
  
 ## 🛠️ Tools I Built

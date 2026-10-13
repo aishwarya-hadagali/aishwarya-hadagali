@@ -44,10 +44,10 @@ All notebooks live in one repo: [**data-science-portfolio**](https://github.com/
 | 👥 [**Customer Segmentation & Retention**](https://github.com/aishwarya-hadagali/customer-segmentation-retention) | Segmented 5,852 customers of a UK gift retailer. The top 25% drive ~70% of revenue, and 359 "Can't Lose Them" customers hold £1.03M of win-back revenue | Python · Pandas · Power BI |
 | 📦 [**Olist Delivery Analysis**](https://github.com/aishwarya-hadagali/olist-delivery-analysis) | SQL + Power BI analysis of late deliveries and review scores | SQL · PostgreSQL · Power BI |
 
----
-
 | 🗄️ [**Daily SQL Practice**](https://github.com/aishwarya-hadagali/sql-practice) | Daily practice on an employees/departments/projects database: JOINs, CTEs (incl. recursive), window functions, subqueries, ROLLUP, views | SQL · PostgreSQL |
 
+
+---
  
 ## 🚧 In Progress
  

@@ -45,6 +45,9 @@ All notebooks live in one repo: [**data-science-portfolio**](https://github.com/
 | 📦 [**Olist Delivery Analysis**](https://github.com/aishwarya-hadagali/olist-delivery-analysis) | SQL + Power BI analysis of late deliveries and review scores | SQL · PostgreSQL · Power BI |
 
 ---
+
+| 🗄️ [**Daily SQL Practice**](https://github.com/aishwarya-hadagali/sql-practice) | Daily practice on an employees/departments/projects database: JOINs, CTEs (incl. recursive), window functions, subqueries, ROLLUP, views | SQL · PostgreSQL |
+
  
 ## 🚧 In Progress
  

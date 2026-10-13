@@ -33,7 +33,17 @@ All notebooks live in one repo: [**data-science-portfolio**](https://github.com/
 | 💎 [**Diamonds EDA**](https://github.com/aishwarya-hadagali/data-science-portfolio/blob/master/DiamondDataset.ipynb) | Price drivers across cut, clarity & carat | Python · Pandas · Seaborn |
 | 🌸 [**Iris Dataset EDA**](https://github.com/aishwarya-hadagali/data-science-portfolio/blob/master/IrisDataset.ipynb) | Classic species classification exploration | Python · Pandas · Seaborn |
 | 🐧 [**Penguins EDA**](https://github.com/aishwarya-hadagali/data-science-portfolio/blob/master/penguins_eda.ipynb) | Species & habitat trends across measurements | Python · Pandas · Seaborn |
- 
+
+---
+
+## 🔬 Analytics Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| 🍪 [**Cookie Cats A/B Test**](https://github.com/aishwarya-hadagali/cookie-cats-ab-test) | A/B test analysis of mobile game gate position and player retention | Python · SciPy · Pandas |
+| 👥 [**Customer Segmentation & Retention**](https://github.com/aishwarya-hadagali/customer-segmentation-retention) | A/B test analysis of mobile game gate position and player retention | Python · SciPy · Pandas |
+| 📦 [**Olist Delivery Analysis**](https://github.com/aishwarya-hadagali/olist-delivery-analysis) | SQL + Power BI analysis of late deliveries and review scores | SQL · PostgreSQL · Power BI |
+
 ---
  
 ## 🚧 In Progress

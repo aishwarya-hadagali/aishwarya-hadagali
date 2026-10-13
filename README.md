@@ -63,6 +63,8 @@ All notebooks live in one repo: [**data-science-portfolio**](https://github.com/
 |---|---|---|
 | 💳 **Paisabazaar Credit Score Dashboard** | Interactive dashboard built on the capstone dataset — DAX measures, conditional formatting matrix, Top N filter, bookmark/reset button | [paisabazar_dashboard_123.pbix](https://github.com/aishwarya-hadagali/paisabazaar-credit-score-eda/blob/main/paisabazar_dashboard_123.pbix) |
 | 🚢 **Titanic Survival Dashboard** | Interactive breakdown of survival patterns by class, age & gender | [Titanic_Survival_Dashboard.pbix](https://github.com/aishwarya-hadagali/data-science-portfolio/blob/master/Titanic_Survival_Dashboard.pbix) |
+| 👥 **Customer Segmentation Dashboard** | Customer segments for a UK gift retailer: 5,852 customers, £16.81M revenue, top 25% of customers drive ~70% of it | [customer_segmentation.pbix](https://github.com/aishwarya-hadagali/customer-segmentation-retention/blob/main/customer_segmentation.pbix) |
+| 📦 **Olist Delivery Dashboard** | Late deliveries and their effect on review scores | [olist_delivery_analysis.pbix](https://github.com/aishwarya-hadagali/olist-delivery-analysis/blob/main/olist_delivery_analysis.pbix) |
 
 > Note: `.pbix` files need Power BI Desktop to open — download to view interactively.
 ---
